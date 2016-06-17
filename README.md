@@ -1,5 +1,5 @@
 # templateWeb
-## Liste des branches
+## Liste des branches css
 ###### nomDeLaBranche : fichiers concernés
 
 * Branches communes.
