@@ -3,7 +3,7 @@
 ###### nomDeLaBranche : fichiers concernés
 
 * Branches communes.
- * initialization : reset initialisation mixins variables
+ * initialization : reset - initialisation - mixins - variables
  * general : main - theme
 * Branches de sections
  * navigation : navigation
