@@ -2,3 +2,39 @@
 Hugues Leger
 Branche general
 */
+
+/*-----------font import----------------*/
+@font-face {
+    font-family: "Coolvetica"; /*---------typo pour title----------*/
+    src: url('../font/coolvetica rg.ttf');
+}
+
+@font-face {
+    font-family: "GeosansLight"; /*---------typo pour texte----------*/
+    src: url('../font/GeosansLight.ttf');
+}
+/*----------fin-font import----------------*/
+
+body{
+  background-color:#F3F3F3;
+  margin: 0;
+}
+
+h1{
+  font-family:"Coolvetica","Open Sans", sans-serif;
+  color: #71A1E1;
+  padding: 15px;
+}
+
+h2{
+    font-family:"Coolvetica","Open Sans", sans-serif;
+    color: #535353;
+    padding: 15px;
+}
+
+p{
+  font-family:"GeosansLight","Open Sans", sans-serif;
+  color: #3B3B3B;
+  font-size: 18px;
+  padding: 15px;
+}
