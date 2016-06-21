@@ -1,6 +1,35 @@
-nav {
-  width: 100%;
-  height: 100px;
-  background-color: grey; }
+/*
+Branche general
+*/
+/*
+Branche initialisation
+*/
+/*
+Branche initialisation
+*/
+/*
+Branche initialisation
+*/
+/*
+Branche initialisation
+*/
+html {
+  background-color: lightgrey; }
+
+/*
+Branche navigation
+*/
+/*
+Jonathan GOMEZ
+Branche ecole
+*/
+.ecole {
+  background-color: blue; }
+
+.contenueecole {
+  background-color: yellow; }
+
+.titreecole {
+  background-color: lightgrey; }
 
 /*# sourceMappingURL=main.css.map */

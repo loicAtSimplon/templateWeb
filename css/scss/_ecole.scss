@@ -2,14 +2,17 @@
 Jonathan GOMEZ
 Branche ecole
 */
+$couleur : blue;
+$couleur1 : lightgrey;
+
 .ecole {
-background-color: blue;
+  background-color: $couleur;
 }
 
-.formation {
-background-color: red;
+.contenueecole {
+  background-color: yellow;
 }
 
-.framework {
-background-color: green;
+.titreecole {
+  background-color: $couleur1;
 }
