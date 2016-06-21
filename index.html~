@@ -1,0 +1,179 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <META NAME="Copyright" CONTENT="beweb">
+    <META NAME="Author" CONTENT="beweb">
+    <META NAME="Category" CONTENT="Webmastering, Gestion de sites">
+    <META NAME="Description" CONTENT="Rôle et description des balises Meta">
+    <META NAME="Keywords" CONTENT="Analyse d'audience, Référencement, PageRank, Webmaster">
+    <META NAME="Reply-to" CONTENT="webmaster@rankspirit.com">
+    <link rel="stylesheet" href="css"/>
+    <link rel="stylesheet" href="./css/main.css">
+<link rel="stylesheet" type="text/css" href="./css/partenaires.css">
+    <script type="text/javascript" src="js"></script>
+
+    <title>Beweb</title>
+  </head>
+  <body>
+​
+    <!-- section page accueil -->
+    <div>
+        <!-- img/video -->
+    </div>
+​
+    <!-- nav -->
+    <div>
+      <ul>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+      </ul>
+    </div>
+
+
+​    <div>
+    <!-- livres d'or -->
+    </div>
+
+    <!-- section ecole/formation -->
+    <div>
+      <h1>Ecole</h1>
+      <h2>Presentation BEWEB</h2>
+      <p>
+        BeWeb labellisée Grande École du Numérique en Février 2016: fabrique coopérative numérique de Lunel.
+      </p>
+
+      <h2>Formation</h2>
+      <p>
+        Une formation gratuite intensif qui dure 6 mois, nous allons apprendre à créer des sites Internet et des applications web, et en faire son métier.
+      </p>
+      <p>
+        La formation est fondée à 80% sur le “learning by doing” (pratique/projets) et capitalise sur des leviers d’apprentissage horizontaux tels que le “peer-programming” (programmation par les pairs, en binôme) et le mode projet, la transmission / évaluation par les pairs et la réalisation comme booster d’acquisition des compétences.
+      </p>
+      <p>
+        Au-delà du “learning by doing” et du “peer-programming”, les apprenant(e-s) sont mis(e-s) en situation par le “learning by teaching”. Ils y sont confrontés quand ils travaillent en binôme, mais également à l’occasion d’ateliers (pour des partenaires, des enfants, des porteurs de projets, etc.). Ces événements de “reverse mentoring” sont d’excellents moyens de validation des acquis, de montée en compétence (pédagogie, patience, adaptabilité, etc.) mais aussi de gain de confiance.
+      </p>
+      <p>
+        Une formation ouverte à tous. La sélection se fait sur la motivation et l’envie de travailler en équipe .
+      </p>
+
+
+
+      <div>
+        <h2>Langages et Framework</h2>
+
+        <p>le développement « front-end » (ce qu’on voit à l’écran, avec HTML, CSS et Javascript), le développement « back-end » (les coulisses, les fonctionnalités), l’administration systèmes (sous Linux), la programmation d’objets connectés, la gestion de projet et la conception d’interfaces</p>
+
+        <img src="img_format_web/html5.png">
+        <img src="img_format_web/css3.png">
+        <img src="img_format_web/js.png">
+        <img src="img_format_web/java.png">
+        <img src="img_format_web/php.png">
+
+        <p>Les outils utilisés sont:</p>
+
+        <img src="img_format_web/symfony.png">
+        <img src="img_format_web/boostrap.png">
+        <img src="img_format_web/jquery.png">
+        <img src="img_format_web/sass.png">
+        <img src="img_format_web/github.png">
+        <img src="img_format_web/trello.png">
+        <!-- logo des langages -->
+      </div>
+
+      <div>
+        <h2>Revue de presse</h2>
+        <p>
+          On parle de nous
+        </p>
+        <img src="img_format_web/midi_libre.png" alt="" />
+        <img src="img_format_web/tv_sud.png" alt="" />
+        <img src="img_format_web/gazette.png" alt="" />
+        <!-- revue press -->
+      </div>
+    </div>
+​
+    <!-- section Promo -->
+    <div>
+      <h1>Promotion 2016</h1>
+      <div>
+        <!-- liste des personnes position gauche -->
+        <div>
+          <h2></h2>
+          <ul>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+          </ul>
+​       </div>
+​
+        <div>
+          <!-- partie photo/carousel-->
+        </div>
+​
+        <!-- article promo personnel -->
+        <div>
+        <!--  description personnelle position "droite"  -->
+          <h2>Profil</h2>
+​
+          <p>
+            <!-- commentaire...... -->
+          </p>
+          <!--  liens vers nos facebook, gmail.. -->
+            <a href="#"></a>
+            <a href="#"></a>
+            <a href="#"></a>
+        </div>
+      <!-- fin section promo  -->
+      </div>
+    </div>
+​
+    <!-- section footer -->
+    <div>
+      <!-- section contact -->
+      <div>
+        <h1>contact</h1>
+      <!-- formulaire -->
+      </div>
+​
+    <!-- section partenaire -->
+      <div>
+        <h2>Partenaire</h2>
+        <p>
+          Ils nous accompagnent.
+        </p>
+        <img src="img_format_web/grande_ecole_numerique.png" alt="" />
+        <img src="img_format_web/ministre_de_la_ville.png" alt="" />
+        <img src="img_format_web/republique_française.png" alt="" />
+        <img src="img_format_web/prefecture_herault.png" alt="" />
+        <img src="img_format_web/logo_dgcs.png" alt="" />
+        <img src="img_format_web/departement_herault.png" alt="" />
+        <img src="img_format_web/ville_lunel.png" alt="" />
+        <img src="img_format_web/pole_emploi.png" alt="" />
+        <img src="img_format_web/mli.jpg" alt="" />
+        <img src="img_format_web/via_innova.png" alt="" />
+        <img src="img_format_web/bge.png" alt="" />
+
+      </div>
+    </div>
+  </body>
+</html>
