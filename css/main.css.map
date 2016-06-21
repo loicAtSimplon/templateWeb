@@ -1,7 +1,8 @@
 {
 "version": 3,
-"mappings": "AAAA;;EAEE;ACFF;;EAEE;ACFF;;EAEE;ACFF;;EAEE;ACFF;;EAEE;AAEF,IAAI;EACF,gBAAgB,EAAE,SAAS;;ACL7B;;EAEE;ACFF;;;EAGE;AAIF,MAAO;EACL,gBAAgB,EAJP,IAAI;;AAOf,cAAe;EACb,gBAAgB,EAAE,MAAM;;AAG1B,WAAY;EACV,gBAAgB,EAXN,SAAS",
-"sources": ["scss/main.scss","scss/_variables.scss","scss/_mixins.scss","scss/_reset.scss","scss/_initialisation.scss","scss/_navigation.scss","scss/_ecole.scss"],
+"mappings": "AAAA;;EAEE;ACFF;;EAEE;ACFF;;EAEE;ACFF;;EAEE;ACFF;;EAEE;AAEF,IAAI;EACF,gBAAgB,EAAE,SAAS;;ACL7B;;EAEE;AACF,OAAO;EACL,aAAa,EAAE,GAAG;;AAEpB,EAAE;EACA,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY",
+"sources": ["scss/main.scss","scss/_variables.scss","scss/_mixins.scss","scss/_reset.scss","scss/_initialisation.scss","scss/_navigation.scss"],
+
 "names": [],
 "file": "main.css"
 }

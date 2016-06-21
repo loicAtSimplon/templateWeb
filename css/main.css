@@ -32,4 +32,13 @@ Branche ecole
 .titreecole {
   background-color: lightgrey; }
 
+
+.navbar {
+  border-radius: 0px; }
+
+ul {
+  display: flex;
+  justify-content: space-around; }
+
+
 /*# sourceMappingURL=main.css.map */
