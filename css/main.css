@@ -17,13 +17,28 @@ html {
   background-color: lightgrey; }
 
 /*
-Vincent Feger
+Branche navigation
 */
+/*
+Jonathan GOMEZ
+Branche ecole
+*/
+.ecole {
+  background-color: blue; }
+
+.contenueecole {
+  background-color: yellow; }
+
+.titreecole {
+  background-color: lightgrey; }
+
+
 .navbar {
   border-radius: 0px; }
 
 ul {
   display: flex;
   justify-content: space-around; }
+
 
 /*# sourceMappingURL=main.css.map */
