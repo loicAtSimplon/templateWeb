@@ -1,5 +1,8 @@
 /*
+<<<<<<< HEAD
 Hugues Leger
+=======
+>>>>>>> master
 Branche general
 */
 /*
@@ -14,10 +17,17 @@ Branche initialisation
 /*
 Branche initialisation
 */
+<<<<<<< HEAD
+=======
+html {
+  background-color: lightgrey; }
+
+>>>>>>> master
 /*
 Branche navigation
 */
 /*
+<<<<<<< HEAD
 Hugues Leger
 Branche general
 */
@@ -50,5 +60,27 @@ p {
   color: #3B3B3B;
   font-size: 18px;
   padding: 15px; }
+=======
+Jonathan GOMEZ
+Branche ecole
+*/
+.ecole {
+  background-color: blue; }
+
+.contenueecole {
+  background-color: yellow; }
+
+.titreecole {
+  background-color: lightgrey; }
+
+
+.navbar {
+  border-radius: 0px; }
+
+ul {
+  display: flex;
+  justify-content: space-around; }
+
+>>>>>>> master
 
 /*# sourceMappingURL=main.css.map */

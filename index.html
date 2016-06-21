@@ -9,9 +9,17 @@
     <META NAME="Description" CONTENT="Rôle et description des balises Meta">
     <META NAME="Keywords" CONTENT="Analyse d'audience, Référencement, PageRank, Webmaster">
     <META NAME="Reply-to" CONTENT="webmaster@rankspirit.com">
+
+    <META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0, shrink-to-fit=no">
       <!-- Import Bootstrap AVANT le fichier css (afin de pouvoir overight) => a tester -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/main.css">
+      <!-- Import de Jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+      <!-- Import de Bootstrap.js -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+
 
     <title>Beweb</title>
   </head>
@@ -23,14 +31,33 @@
     </div>
 ​
     <!-- nav -->
-    <nav>
-      <ul>
-        <li><a href="#"></a></li>
-        <li><a href="#"></a></li>
-        <li><a href="#"></a></li>
-        <li><a href="#"></a></li>
-      </ul>
+
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+        <!-- Petits logos qui serviront pour le menu responsive_____________________-->
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#maBarreDeNav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- C'est ici que l'on placera le logo BEWEB_________________________-->
+          <a class="navbar-brand" href="#">LogoBeWeb</a>
+        </div>
+        <div class="collapse navbar-collapse" id="maBarreDeNav">
+          <!-- Liens vers les sections ! _______________________________________-->
+          <ul class="nav navbar-nav">
+            <li><a href="#">Home</a></li>
+            <li><a href="#ecolee">Ecole</a></li>
+            <li><a href="#promotionss">Promotions</a></li>
+            <li><a href="#kontakt">Contacts</a></li>
+          </ul>
+        </div>
+      </div>
     </nav>
+
+
+
 
 
 ​    <div>
@@ -38,14 +65,20 @@
     </div>
 
     <!-- section ecole/formation -->
-    <div>
-      <h1>Presentation BEWEB</h1>
+
+
+    <div class="ecole">
+
+      <h1 class=titreecole>Présentation BeWeb</h1>
+      <div class="contenueecole">
+
+
       <p>
         BeWeb labellisée Grande École du Numérique en Février 2016: fabrique coopérative numérique de Lunel.
       </p>
 
-      <h2>Formation</h2>
-      <p>
+      <h2 class="titreecole">Formation</h2>
+      <div class="contenueecole"><p>
         Une formation gratuite intensif qui dure 6 mois, nous allons apprendre à créer des sites Internet et des applications web, et en faire son métier.
       </p>
       <p>
@@ -57,12 +90,13 @@
       <p>
         Une formation ouverte à tous. La sélection se fait sur la motivation et l’envie de travailler en équipe .
       </p>
+    </div>
+    </div>
 
 
 
-      <div>
-        <h2>Langages et Framework</h2>
-
+        <h2 class="titreecole">Langages et Framework</h2>
+        <div class="contenueecole">
         <p>le développement « front-end » (ce qu’on voit à l’écran, avec HTML, CSS et Javascript), le développement « back-end » (les coulisses, les fonctionnalités), l’administration systèmes (sous Linux), la programmation d’objets connectés, la gestion de projet et la conception d’interfaces</p>
 
         <img src="img_format_web/html5.png" alt="">
@@ -82,8 +116,9 @@
         <!-- logo des langages -->
       </div>
 
-      <div>
-        <h2>Revue de presse</h2>
+
+        <h2 class="titreecole">Revue de presse</h2>
+        <div class="contenueecole">
         <p>
           On parle de nous
         </p>
@@ -96,7 +131,7 @@
 ​
     <!-- section Promo -->
     <div>
-      <h1>Promotion 2016</h1>
+      <h1 id="promotionss">Promotion 2016</h1>
       <div>
         <!-- liste des personnes position gauche -->
         <div>
@@ -149,7 +184,7 @@
     <div>
       <!-- section contact -->
       <div>
-        <h1>contact</h1>
+        <h1 id="kontakt">contact</h1>
       <!-- formulaire -->
       </div>
 ​
