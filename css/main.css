@@ -1,8 +1,5 @@
 /*
-<<<<<<< HEAD
 Hugues Leger
-=======
->>>>>>> master
 Branche general
 */
 /*
@@ -17,17 +14,17 @@ Branche initialisation
 /*
 Branche initialisation
 */
-<<<<<<< HEAD
-=======
-html {
-  background-color: lightgrey; }
-
->>>>>>> master
 /*
-Branche navigation
+Vincent Feger
 */
+.navbar {
+  border-radius: 0px; }
+
+ul {
+  display: flex;
+  justify-content: space-around; }
+
 /*
-<<<<<<< HEAD
 Hugues Leger
 Branche general
 */
@@ -47,20 +44,50 @@ body {
 
 h1 {
   font-family: "Coolvetica","Open Sans", sans-serif;
-  color: #71A1E1;
-  padding: 15px; }
+  color: #535353;
+  padding: 15px;
+  text-align: center;
+  margin: 0; }
 
 h2 {
   font-family: "Coolvetica","Open Sans", sans-serif;
   color: #535353;
-  padding: 15px; }
+  padding: 15px;
+  margin: 0; }
 
 p {
   font-family: "GeosansLight","Open Sans", sans-serif;
   color: #3B3B3B;
   font-size: 18px;
-  padding: 15px; }
-=======
+  padding: 15px;
+  text-align: justify;
+  margin: 0; }
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto; }
+
+#ecole {
+  background-color: #fff; }
+
+.title-presentation {
+  background-color: #71A1E1; }
+
+.title-formation {
+  border-bottom: 2px solid #71A1E1;
+  text-align: center;
+  width: 200px;
+  margin: auto; }
+
+.title-langages {
+  border-bottom: 2px solid #71A1E1;
+  text-align: center;
+  width: 400px;
+  margin: auto; }
+
+/*
 Jonathan GOMEZ
 Branche ecole
 */
@@ -72,15 +99,5 @@ Branche ecole
 
 .titreecole {
   background-color: lightgrey; }
-
-
-.navbar {
-  border-radius: 0px; }
-
-ul {
-  display: flex;
-  justify-content: space-around; }
-
->>>>>>> master
 
 /*# sourceMappingURL=main.css.map */
