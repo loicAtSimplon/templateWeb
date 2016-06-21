@@ -1,3 +1,18 @@
 /*
+Jonathan GOMEZ
 Branche ecole
 */
+$couleur : blue;
+$couleur1 : lightgrey;
+
+.ecole {
+  background-color: $couleur;
+}
+
+.contenueecole {
+  background-color: yellow;
+}
+
+.titreecole {
+  background-color: $couleur1;
+}
